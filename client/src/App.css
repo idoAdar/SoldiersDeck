@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-part-one {
+  width: 40rem;
+  height: 25rem;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  box-shadow: 2px 3px 6px #ccc;
+}
+
+.main-part-one small {
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.solider-deck-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.solider-deck-main form {
+  width: 18rem;
+  height: 8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.solider-deck-main form input,
+.solider-deck-main form select {
+  outline: none;
+  padding: 0.3rem;
+}
